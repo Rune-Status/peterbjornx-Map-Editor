@@ -1,0 +1,519 @@
+<?xml version="1.0" standalone="yes"?>
+
+<mydoggy version="1.5.0" contentManagerEnabled="true">
+    <toolWindows>
+        <sharedWindows></sharedWindows>
+        <toolWindow id="Tools" available="true" visible="true" active="true" autoHide="false" anchor="TOP" anchorIndex="0" type="DOCKED" aggregateMode="false" maximized="false" index="1" flashing="false" lockedOnAnchor="false" hideOnZeroTabs="true">
+            <descriptors>
+                <docked animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" dockLength="91" minimumDockLength="79" popupMenuEnabled="true"/>
+                <sliding animating="true" autoHide="true" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5"/>
+                <floating animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true"/>
+                <floatingLive animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5" resizable="true"/>
+                <anchor visible="true" title="Tools" previewEnabled="true" previewDelay="1000" previewTransparentRatio="0.65">
+                    <lockingAnchors></lockingAnchors>
+                </anchor>
+            </descriptors>
+        </toolWindow>
+        <toolWindow id="Toolbar" available="true" visible="false" active="false" autoHide="false" anchor="TOP" anchorIndex="1" type="DOCKED" aggregateMode="false" maximized="false" index="2" flashing="false" lockedOnAnchor="false" hideOnZeroTabs="true">
+            <descriptors>
+                <docked animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" dockLength="61" minimumDockLength="61" popupMenuEnabled="true"/>
+                <sliding animating="true" autoHide="true" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5"/>
+                <floating animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true"/>
+                <floatingLive animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5" resizable="true"/>
+                <anchor visible="true" title="Toolbar" previewEnabled="true" previewDelay="1000" previewTransparentRatio="0.65">
+                    <lockingAnchors></lockingAnchors>
+                </anchor>
+            </descriptors>
+        </toolWindow>
+        <toolWindow id="Floors" available="true" visible="true" active="false" autoHide="false" anchor="LEFT" anchorIndex="2" type="DOCKED" aggregateMode="false" maximized="false" index="3" flashing="false" lockedOnAnchor="false" hideOnZeroTabs="true">
+            <descriptors>
+                <docked animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" dockLength="200" minimumDockLength="100" popupMenuEnabled="true"/>
+                <sliding animating="true" autoHide="true" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5"/>
+                <floating animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true"/>
+                <floatingLive animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5" resizable="true"/>
+                <anchor visible="true" title="Floors" previewEnabled="true" previewDelay="1000" previewTransparentRatio="0.65">
+                    <lockingAnchors></lockingAnchors>
+                </anchor>
+            </descriptors>
+        </toolWindow>
+        <toolWindow id="Floor Editor" available="true" visible="true" active="false" autoHide="false" anchor="RIGHT" anchorIndex="1" type="DOCKED" aggregateMode="false" maximized="false" index="4" flashing="false" lockedOnAnchor="false" hideOnZeroTabs="true">
+            <descriptors>
+                <docked animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" dockLength="261" minimumDockLength="100" popupMenuEnabled="true"/>
+                <sliding animating="true" autoHide="true" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5"/>
+                <floating animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true"/>
+                <floatingLive animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5" resizable="true"/>
+                <anchor visible="true" title="Floor Editor" previewEnabled="true" previewDelay="1000" previewTransparentRatio="0.65">
+                    <lockingAnchors></lockingAnchors>
+                </anchor>
+            </descriptors>
+        </toolWindow>
+        <toolWindow id="Minimap" available="true" visible="true" active="false" autoHide="false" anchor="RIGHT" anchorIndex="0" type="DOCKED" aggregateMode="false" maximized="false" index="5" flashing="false" lockedOnAnchor="false" hideOnZeroTabs="true">
+            <descriptors>
+                <docked animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" dockLength="261" minimumDockLength="100" popupMenuEnabled="true"/>
+                <sliding animating="true" autoHide="true" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5"/>
+                <floating animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true"/>
+                <floatingLive animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true">
+                    <location x="1364" y="126"/>
+                    <size width="240" height="549"/>
+                </floatingLive>
+                <anchor visible="true" title="Minimap" previewEnabled="true" previewDelay="1000" previewTransparentRatio="0.65">
+                    <lockingAnchors></lockingAnchors>
+                </anchor>
+            </descriptors>
+        </toolWindow>
+        <toolWindow id="Settings Editor" available="true" visible="true" active="false" autoHide="false" anchor="RIGHT" anchorIndex="2" type="DOCKED" aggregateMode="false" maximized="false" index="6" flashing="false" lockedOnAnchor="false" hideOnZeroTabs="true">
+            <descriptors>
+                <docked animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" dockLength="261" minimumDockLength="100" popupMenuEnabled="true"/>
+                <sliding animating="true" autoHide="true" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5"/>
+                <floating animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true"/>
+                <floatingLive animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5" resizable="true"/>
+                <anchor visible="true" title="Settings Editor" previewEnabled="true" previewDelay="1000" previewTransparentRatio="0.65">
+                    <lockingAnchors></lockingAnchors>
+                </anchor>
+            </descriptors>
+        </toolWindow>
+        <toolWindow id="Objects" available="true" visible="true" active="false" autoHide="false" anchor="LEFT" anchorIndex="1" type="DOCKED" aggregateMode="false" maximized="false" index="7" flashing="false" lockedOnAnchor="false" hideOnZeroTabs="true">
+            <descriptors>
+                <docked animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" dockLength="200" minimumDockLength="100" popupMenuEnabled="true"/>
+                <sliding animating="true" autoHide="true" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5"/>
+                <floating animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true"/>
+                <floatingLive animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5" resizable="true"/>
+                <anchor visible="true" title="Objects" previewEnabled="true" previewDelay="1000" previewTransparentRatio="0.65">
+                    <lockingAnchors></lockingAnchors>
+                </anchor>
+            </descriptors>
+        </toolWindow>
+        <toolWindow id="Shapes" available="true" visible="false" active="false" autoHide="false" anchor="LEFT" anchorIndex="0" type="DOCKED" aggregateMode="false" maximized="false" index="8" flashing="false" lockedOnAnchor="false" hideOnZeroTabs="true">
+            <descriptors>
+                <docked animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" dockLength="200" minimumDockLength="100" popupMenuEnabled="true"/>
+                <sliding animating="true" autoHide="true" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5"/>
+                <floating animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" modal="false" transparentMode="true" transparentDelay="1500" transparentRatio="0.7" addToTaskBar="false" alwaysOnTop="true" osDecorated="false" resizable="true"/>
+                <floatingLive animating="true" autoHide="false" enabled="true" hideRepresentativeButtonOnVisible="false" idVisibleOnTitleBar="true" titleBarButtonsVisible="true" titleBarVisible="true" transparentMode="true" transparentDelay="1000" transparentRatio="0.5" resizable="true"/>
+                <anchor visible="true" title="Shapes" previewEnabled="true" previewDelay="1000" previewTransparentRatio="0.65">
+                    <lockingAnchors></lockingAnchors>
+                </anchor>
+            </descriptors>
+        </toolWindow>
+    </toolWindows>
+    <toolWindowManagerDescriptor numberingEnabled="true" previewEnabled="true" showUnavailableTools="false">
+        <pushAway pushAwayMode="VERTICAL">
+            <mode type="MOST_RECENT">
+                <anchor type="BOTTOM"/>
+                <anchor type="RIGHT"/>
+                <anchor type="LEFT"/>
+                <anchor type="TOP"/>
+            </mode>
+        </pushAway>
+    </toolWindowManagerDescriptor>
+    <contentManagerUI>
+        <TabbedContentManagerUI closeable="true" detachable="true" minimizable="true" maximizable="true" popupMenuEnabled="true" showAlwaysTab="false" tabLayout="SCROLL" tabPlacement="TOP"/>
+    </contentManagerUI>
+    <contentManager>
+        <sharedWindows></sharedWindows>
+        <contents>
+            <content id="lol" detached="false" enabled="true" selected="false" maximized="false" minimized="false" flashing="false" closeable="true" detachable="true" minimizable="true" maximizable="true" transparentMode="true" transparentDelay="0" transparentRatio="0.7" addToTaskBarWhenDetached="false" alwaysOnTop="true"></content>
+        </contents>
+    </contentManager>
+    <toolWindowBars>
+        <toolWindowBar anchor="LEFT" dividerSize="3" aggregateMode="false" length="23" visible="true" toolsVisible="true">
+            <layout>
+                <![CDATA[
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.MultiSplitLayout$Split" id="MultiSplitLayout$Split0">
+  <void id="Rectangle0" property="bounds">
+   <void class="java.awt.Rectangle" method="getField">
+    <string>width</string>
+    <void method="set">
+     <object idref="Rectangle0"/>
+     <int>225</int>
+    </void>
+   </void>
+   <void class="java.awt.Rectangle" method="getField">
+    <string>height</string>
+    <void method="set">
+     <object idref="Rectangle0"/>
+     <int>707</int>
+    </void>
+   </void>
+  </void>
+  <void property="bounds">
+   <object idref="Rectangle0"/>
+  </void>
+  <void id="ArrayList0" property="children">
+   <void method="add">
+    <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.DockableLeaf" id="DockableLeaf0">
+     <void id="Rectangle1" property="bounds">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>225</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>434</int>
+       </void>
+      </void>
+     </void>
+     <void property="bounds">
+      <object idref="Rectangle1"/>
+     </void>
+     <void property="dockables">
+      <object class="java.util.ArrayList">
+       <void method="add">
+        <string>Objects</string>
+       </void>
+      </object>
+     </void>
+     <void property="name">
+      <string>1</string>
+     </void>
+     <void property="parent">
+      <object idref="MultiSplitLayout$Split0"/>
+     </void>
+     <void property="weight">
+      <double>0.5</double>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.MultiSplitLayout$Divider" id="MultiSplitLayout$Divider0">
+     <void id="Rectangle2" property="bounds">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>434</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>225</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>5</int>
+       </void>
+      </void>
+     </void>
+     <void property="bounds">
+      <object idref="Rectangle2"/>
+     </void>
+     <void property="parent">
+      <object idref="MultiSplitLayout$Split0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.DockableLeaf" id="DockableLeaf1">
+     <void id="Rectangle3" property="bounds">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>439</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>225</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>268</int>
+       </void>
+      </void>
+     </void>
+     <void property="bounds">
+      <object idref="Rectangle3"/>
+     </void>
+     <void property="dockables">
+      <object class="java.util.ArrayList">
+       <void method="add">
+        <string>Floors</string>
+       </void>
+      </object>
+     </void>
+     <void property="name">
+      <string>2</string>
+     </void>
+     <void property="parent">
+      <object idref="MultiSplitLayout$Split0"/>
+     </void>
+     <void property="weight">
+      <double>0.5</double>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="children">
+   <object idref="ArrayList0"/>
+  </void>
+  <void property="rowLayout">
+   <boolean>false</boolean>
+  </void>
+ </object>
+</java>
+]]>
+            </layout>
+        </toolWindowBar>
+        <toolWindowBar anchor="BOTTOM" dividerSize="3" aggregateMode="false" length="23" visible="true" toolsVisible="true"></toolWindowBar>
+        <toolWindowBar anchor="RIGHT" dividerSize="3" aggregateMode="false" length="23" visible="true" toolsVisible="true">
+            <layout>
+                <![CDATA[
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.MultiSplitLayout$Split" id="MultiSplitLayout$Split0">
+  <void id="Rectangle0" property="bounds">
+   <void class="java.awt.Rectangle" method="getField">
+    <string>width</string>
+    <void method="set">
+     <object idref="Rectangle0"/>
+     <int>258</int>
+    </void>
+   </void>
+   <void class="java.awt.Rectangle" method="getField">
+    <string>height</string>
+    <void method="set">
+     <object idref="Rectangle0"/>
+     <int>707</int>
+    </void>
+   </void>
+  </void>
+  <void property="bounds">
+   <object idref="Rectangle0"/>
+  </void>
+  <void id="ArrayList0" property="children">
+   <void method="add">
+    <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.DockableLeaf" id="DockableLeaf0">
+     <void id="Rectangle1" property="bounds">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>258</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>156</int>
+       </void>
+      </void>
+     </void>
+     <void property="bounds">
+      <object idref="Rectangle1"/>
+     </void>
+     <void property="dockables">
+      <object class="java.util.ArrayList">
+       <void method="add">
+        <string>Minimap</string>
+       </void>
+      </object>
+     </void>
+     <void property="name">
+      <string>1</string>
+     </void>
+     <void property="parent">
+      <object idref="MultiSplitLayout$Split0"/>
+     </void>
+     <void property="weight">
+      <double>0.3333333333333333</double>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.MultiSplitLayout$Divider" id="MultiSplitLayout$Divider0">
+     <void id="Rectangle2" property="bounds">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>156</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>258</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>5</int>
+       </void>
+      </void>
+     </void>
+     <void property="bounds">
+      <object idref="Rectangle2"/>
+     </void>
+     <void property="parent">
+      <object idref="MultiSplitLayout$Split0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.DockableLeaf" id="DockableLeaf1">
+     <void id="Rectangle3" property="bounds">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>161</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>258</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>397</int>
+       </void>
+      </void>
+     </void>
+     <void property="bounds">
+      <object idref="Rectangle3"/>
+     </void>
+     <void property="dockables">
+      <object class="java.util.ArrayList">
+       <void method="add">
+        <string>Floor Editor</string>
+       </void>
+      </object>
+     </void>
+     <void property="name">
+      <string>2</string>
+     </void>
+     <void property="parent">
+      <object idref="MultiSplitLayout$Split0"/>
+     </void>
+     <void property="weight">
+      <double>0.3333333333333333</double>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.MultiSplitLayout$Divider" id="MultiSplitLayout$Divider1">
+     <void id="Rectangle4" property="bounds">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle4"/>
+        <int>558</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle4"/>
+        <int>258</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle4"/>
+        <int>5</int>
+       </void>
+      </void>
+     </void>
+     <void property="bounds">
+      <object idref="Rectangle4"/>
+     </void>
+     <void property="parent">
+      <object idref="MultiSplitLayout$Split0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="org.noos.xing.mydoggy.plaf.ui.cmp.multisplit.DockableLeaf" id="DockableLeaf2">
+     <void id="Rectangle5" property="bounds">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle5"/>
+        <int>563</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle5"/>
+        <int>258</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle5"/>
+        <int>144</int>
+       </void>
+      </void>
+     </void>
+     <void property="bounds">
+      <object idref="Rectangle5"/>
+     </void>
+     <void property="dockables">
+      <object class="java.util.ArrayList">
+       <void method="add">
+        <string>Settings Editor</string>
+       </void>
+      </object>
+     </void>
+     <void property="name">
+      <string>3</string>
+     </void>
+     <void property="parent">
+      <object idref="MultiSplitLayout$Split0"/>
+     </void>
+     <void property="weight">
+      <double>0.3333333333333333</double>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="children">
+   <object idref="ArrayList0"/>
+  </void>
+  <void property="rowLayout">
+   <boolean>false</boolean>
+  </void>
+ </object>
+</java>
+]]>
+            </layout>
+        </toolWindowBar>
+        <toolWindowBar anchor="TOP" dividerSize="3" aggregateMode="false" length="23" visible="true" toolsVisible="true">
+            <layout>
+                <![CDATA[
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <null/>
+</java>
+]]>
+            </layout>
+        </toolWindowBar>
+    </toolWindowBars>
+</mydoggy>
+
